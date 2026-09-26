@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Emille Feliciano</h1>
 
 <h3 align="center">
-Sou estudante de Ciência da Computação e trabalho atualmente na área de Suporte Técnico.
+Tenho graduação em Ciência da Computação e trabalho atualmente na área de Suporte Técnico.
 Tenho foco em evolução profissional e atualmente estou estudando a cultura DevOps e Python para iniciar uma transição de carreira para a área de DevOps, unindo operações e desenvolvimento
 para entregar soluções automatizadas, eficientes e escaláveis.
 <br/><br/>
